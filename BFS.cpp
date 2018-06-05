@@ -1,5 +1,6 @@
 /*
 In this code node start with 0.
+nodes = 7,edgs = 6
 So given input is
 0 1
 0 2
